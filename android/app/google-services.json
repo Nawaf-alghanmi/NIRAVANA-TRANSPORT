@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334430990090",
+    "project_id": "ntaf-7d772",
+    "storage_bucket": "ntaf-7d772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334430990090:android:8034301c7cb2b00ff514f3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_nta_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQTH5jcGotLZlt2Dm_YFgp7KV42o-ytsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
